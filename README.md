@@ -1,4 +1,4 @@
-# 🧠 Midlink - Plataforma para suas consultas onlines ou presenciais
+# 🧠 Medlink - Plataforma para suas consultas onlines ou presenciais
 
 **Medlink** é uma aplicação web desenvolvida para facilitar o agendamento de consultas online e presenciais entre pacientes e psicólogos. A plataforma visa oferecer praticidade, segurança e confiança no processo de busca e marcação de atendimentos psicológicos.
 
@@ -60,7 +60,7 @@
 git clone https://github.com/Pedro-prg/consulta-facil.git
 
 # Acesse a pasta do projeto
-cd Midlink
+cd Medlink
 
 # Instale as dependências
 npm install
