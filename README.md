@@ -17,11 +17,8 @@
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Frontend**: React.js / Vue.js / (adicione aqui a tecnologia usada)
-- **Backend**: Node.js / Django / (adicione aqui a tecnologia usada)
-- **Banco de Dados**: PostgreSQL / MongoDB / (adicione aqui)
-- **Autenticação**: JWT / OAuth / (conforme aplicável)
-- **Validação de CRM**: (Explique se há integração com alguma API oficial)
+- **Backend**: SprinBoot
+- **Banco de Dados**: MySQL
 
 ---
 
@@ -37,12 +34,8 @@
 - Cadastro com Nome, E-mail, Senha e número do **CRM**
 - CRM é verificado para garantir autenticidade
 - Pode criar e atualizar seu perfil com:
-  - Abordagens terapêuticas
-  - Formação e especializações
-  - Experiência profissional
-  - Artigos, vídeos, links e depoimentos
-
----
+  
+--
 
 ## 🚧 Em Desenvolvimento
 
